@@ -1,0 +1,7 @@
+vdfuse allows you to mount various virtual machine disk formats
+
+This repo lets you easily build vdfuse for the Mac. Requirements:
+- VirtualBox 4.x
+- MacFUSE (or equivalent)
+
+This build uses a modern version of vdfuse as maintained by Debian. Versions from the VirtualBox forums are often buggy.
